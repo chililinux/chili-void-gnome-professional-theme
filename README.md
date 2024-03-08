@@ -1,1 +1,1 @@
-# void-gnome-professional-theme
+# chili-void-gnome-professional-theme
